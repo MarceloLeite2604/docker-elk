@@ -3,4 +3,4 @@ A Docker Compose repository to create ELK (Elasticsearch, Logstash and Kibana) c
 
 To use it just execute `docker-compose up` on root directory.
 
-Thanks to [Anthony Lapenna](https://github.com/deviantony) for providing such elucidative examples about how to configure Docker containers on his [docker-elk repository](https://github.com/deviantony/docker-elk).
+Thanks to [Anthony Lapenna](https://github.com/deviantony) for providing such elucidative examples about how to configure these Docker containers on his [docker-elk repository](https://github.com/deviantony/docker-elk).
